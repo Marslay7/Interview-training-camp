@@ -6,4 +6,4 @@
 
 ##### 20200131
 
-[csdn]: https://github.com/Marslay7/kvue/blob/master/01-defProp.js
+[1]: http://www.cnblogs.com/21summer/
